@@ -12,11 +12,11 @@
 
 ### fork本项目仓库
 
-![fork1](.\img\fork1.png)
+![fork1](./img/fork1.png)
 
 
 
-![fork2](.\img\fork2.png)
+![fork2](./img/fork2.png)
 
 进入到刚刚fork的仓库中
 
@@ -26,45 +26,45 @@
 
 来到目录下上传即可
 
-![upload4](.\img\upload4.png)
+![upload4](./img/upload4.png)
 
-![upload5](.\img\upload5.png)
+![upload5](./img/upload5.png)
 
 #### 不存在对应文件夹
 
 点击创建新文件
 
-![upload1](.\img\upload1.png)
+![upload1](./img/upload1.png)
 
 
 
 输入需要创建的文件夹名和临时文件名并提交
 
-![upload2](.\img\upload2.png)
+![upload2](./img/upload2.png)
 
-![upload3](.\img\upload3.png)
+![upload3](./img/upload3.png)
 
 来到创建的文件夹下上传文件
 
-![upload4](.\img\upload4.png)
+![upload4](./img/upload4.png)
 
-![upload5](.\img\upload5.png)
+![upload5](./img/upload5.png)
 
 资料上传完成后记得将刚刚新建文件夹时附带的临时文件删除
 
-![upload6](.\img\upload6.png)
+![upload6](./img/upload6.png)
 
 ### 创建拉取请求
 
 回到fork的仓库首页，点击open pull request
 
-![pull_request1](.\img\pull_request1.png)
+![pull_request1](./img/pull_request1.png)
 
 
 
 填写title和description并创建拉取请求，其他选项不用改
 
-![pull_request2](.\img\pull_request2.png)
+![pull_request2](./img/pull_request2.png)
 
 
 
