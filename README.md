@@ -8,6 +8,9 @@
 
 本项目中，你可以上传关于SZTU任意课程的专用复习资料和课程作业答案
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Git4sztu/SZTU_Exam_Not_Fail_Plan.svg?variant=adaptive)](https://starchart.cc/Git4sztu/SZTU_Exam_Not_Fail_Plan)
+
 ## 上传资料方法
 
 ### fork本项目仓库
